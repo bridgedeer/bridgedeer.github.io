@@ -1,2 +1,2 @@
-# roadbrige.github.io
-Rbrige's personal blog
+# rbridge.github.io
+rbridge's  blog
