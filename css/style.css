@@ -227,7 +227,7 @@ h2.article-head {
   float: left;
 }
 .money-like .money-code .alipay-code .code-image {
-  background-image: url("images/alipay.jpg");
+  background-image: url("images/wechat2.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   width: 4.5em;
@@ -252,12 +252,11 @@ h2.article-head {
   color: #34495e;
 }
 .notice {
-  font-size: 12px;
+  font-size: 14px;
   display: block;
   margin-top: 10px;
   text-align: center;
-  color: #7f8c8d;
-  font-style: italic;
+  font-style: normal;
 }
 .qrcode {
   padding-bottom: 30px;
